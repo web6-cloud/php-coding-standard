@@ -1,19 +1,20 @@
 {
-    "name": "tightenco/tighten-coding-standard",
-    "description": "A PHP Code_Sniffer configuration for the Tighten coding standard.",
+    "name": "web6/coding-standard",
+    "description": "A PHP Code_Sniffer configuration for WEB6 Cloud's coding standards.",
     "type" : "phpcodesniffer-standard",
     "keywords": [
-        "tightenco",
-        "tighten-coding-standard",
-        "php"
+        "web6",
+        "coding-standard",
+        "php",
+        "web6-coding-standard"
     ],
-    "homepage": "https://github.com/tighten/tighten-coding-standard",
+    "homepage": "https://github.com/web6-cloud/php-coding-standard",
     "license": "MIT",
     "authors": [
         {
-            "name": "Matt Stauffer",
-            "email": "matt@tighten.co",
-            "homepage": "https://tighten.co",
+            "name": "WEB6 Cloud",
+            "email": "hello@web6.cloud",
+            "homepage": "https://web6.cloud",
             "role": "Developer"
         }
     ],
